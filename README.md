@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SunTheDev](https://github.com/SunTheDev)
 
-- 📝 I regularly write articles on [Twitter.com/SunTheDev](Twitter.com/SunTheDev)
+- 📝 Come follow my Twitter [Twitter.com/SunTheDev](Twitter.com/SunTheDev)
 
 - 💬 Ask me about **Coding,Cars,Travel,Music**
 
