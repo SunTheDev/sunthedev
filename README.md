@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **412gill@gmail.com**
 
+- Check out my portfolio: https://sunthedev.netlify.app/
+
 - ⚡ Fun fact **I'm a professional drummer!**
 
 <h3 align="left">Connect with me:</h3>
