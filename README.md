@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunthedev" target="blank"><img src="https://img.shields.io/twitter/follow/sunthedev?logo=twitter&style=for-the-badge" alt="sunthedev" /></a> </p>
 
-- 🌱 I’m currently using **Javascript,Node, and currently learning React**
+- 🌱 I’m currently using **Javascript,Node,MongoDB and currently learning React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SunTheDev](https://github.com/SunTheDev)
 
