@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunthedev" target="blank"><img src="https://img.shields.io/twitter/follow/sunthedev?logo=twitter&style=for-the-badge" alt="sunthedev" /></a> </p>
 
-- 🌱 I’m currently using **Javascript,Node,MongoDB and currently learning React**
+- 🌱 I’m currently using **Javascript,Node,MongoDB and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SunTheDev](https://github.com/SunTheDev)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Coding,Cars,Travel,Music**
 
-- 📫 How to reach me **412gill@gmail.com**
+- 📫 Reach out at **412gill@gmail.com**
 
 - Check out my portfolio: https://sunthedev.netlify.app/
 
